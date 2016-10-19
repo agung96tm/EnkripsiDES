@@ -3,10 +3,10 @@
 Membuat Enkripsi dengan menggunakan PHP dan Java
 ---------------------------------------------------------------------------------------------------------------
 Tugas Kelompok kriptografi yang terdiri dari :<br />
-Ahmad Raf Sanjani<br />
-Kaishananda <br />
+Ahmad Raf Sanjani (1411501933)<br />
+Kaishananda (1411502980)<br />
 Destriyani (1411501792)<br />
-Ardha Sena<br />
+Ardha Sena (1411501875)<br />
 Agung Yuliyanto (1411502550)<br />
 
 ---------------------------------------------------------------------------------------------------------------
